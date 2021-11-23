@@ -1,0 +1,12 @@
+* {
+  margin: 0px;
+}
+
+body {
+  background-color: #fff;
+}
+
+:root {
+  --color-primary: rgb(63, 81, 181);
+  --color-secondary: rgb(245, 0, 87);
+}
